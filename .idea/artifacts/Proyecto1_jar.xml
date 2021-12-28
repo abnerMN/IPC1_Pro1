@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Proyecto1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Proyecto1_jar</output-path>
+    <root id="archive" name="Proyecto1.jar">
+      <element id="module-output" name="Proyecto1" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libreria/jfreechart-1.0.19/lib/jcommon-1.0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libreria/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libreria/gson-2.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libreria/itext5-itextpdf-5.5.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
